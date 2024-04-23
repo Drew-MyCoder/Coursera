@@ -1,0 +1,1 @@
+This is a simple note app that was created as part of my coursera course on react.
